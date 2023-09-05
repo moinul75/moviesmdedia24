@@ -1,5 +1,5 @@
-﻿# moviesmdedia24
- ﻿# moviesmdedia24 - A simple Movie Ticketing System 
+﻿# moviesmdedia24 - A simple Movie Ticketing System 
+
 
 **This is a simple Movie Ticketing  project using Django Web Framework in the backend and frontend I use html css and javascripts(ajax)**
 
